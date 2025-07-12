@@ -1,2 +1,2 @@
-# my-jupyter-notebooks
+# DataScienceEcosystem
 project 1
